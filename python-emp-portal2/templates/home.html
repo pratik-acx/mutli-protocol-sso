@@ -9,8 +9,9 @@
     <p><a href="/logout" id="qsLogoutBtn">Logout</a></p>
     <div><pre>{{pretty}}</pre></div>
     {% else %}
-    <h1 id="profileDropDown">Welcome Guest</h1>
-    <p><a href="/login" id="qsLoginBtn">Login</a></p>
+    <meta http-equiv="refresh" content="0; url=/login">
+    <!-- <h1 id="profileDropDown">Welcome Guest</h1>
+    <p><a href="/login" id="qsLoginBtn">Login</a></p> -->
     {% endif %}
   </body>
 </html>

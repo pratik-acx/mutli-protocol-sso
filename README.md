@@ -1,6 +1,8 @@
 # POC For Auth0 Multi-Protocol SSO Exercise
 
-This POC show a quick POC for SSO for two applications, one using Google OIDC OpenID provider and another using SAP Customer Data Cloud SAML 2.0 Identity Provider and Auth0 as the authorization server and central domain to handle the SSO between the two web applications
+This POC show a quick POC for SSO for two applications, one using Google OIDC OpenID provider and another using SAP Customer Data Cloud SAML 2.0 Identity Provider and Auth0 as the authorization server and central domain to handle the SSO between the two web applications.
+
+Please refer to the word document Multi-Protocol-SSO.docx which goes through the solution overview and has a sequence diagram of how this would work.
 
 ## Running This Sample Locally
 

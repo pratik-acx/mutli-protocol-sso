@@ -21,5 +21,6 @@ BK9wmBvU9t8y4Oh83bPWIae2v09ib8cF1WsSgwnoG5OWcA+p9R6OB8tD2zHJnox2
 VfESQHf4j0Mc3EigSsxPE/fBv47MQO13931JoO6IKe2W65lrICMY398/wcnfvUNe
 lx3ciC42zCGGGGnsXZb6eEowH8oYP2xlXHKjm70mS+wEBNZnW/M7W6bJwoLgfvvc
 vG3AHI+9/ZO/mUo=
------END CERTIFICATE-----`
+-----END CERTIFICATE-----`,
+  acceptedClockSkewMs: -1 // SAML assertion not yet valid fix
 };

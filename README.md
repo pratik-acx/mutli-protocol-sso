@@ -6,8 +6,8 @@ Please refer to the word document Multi-Protocol-SSO.docx which goes through the
 
 ## Running This Sample Locally
 
-1. For the applicaton nodejs-emp-portal1, you need node version 12 or higher installed.
-Download the project and go to the directory for the nodejs-emp-portal1 application. 
+1. For the applicaton auth0-regular-webapp-saml-idp-client, you need node version 12 or higher installed.
+Download the project and go to the directory for the auth0-regular-webapp-saml-idp-client application. 
 Run `npm install` and `npm start` The application will be running at http://localhost:3000
 
 2. For the application python-emp-portal2, you will need Python 3 and pip installed.
